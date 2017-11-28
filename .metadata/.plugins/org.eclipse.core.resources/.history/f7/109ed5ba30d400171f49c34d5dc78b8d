@@ -5,7 +5,6 @@ public class Helloworld {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 		
-		double a=0.1;
 		int[] hello = new int[10];
 		hello[0] = 101;
 		hello[1] = 102;
